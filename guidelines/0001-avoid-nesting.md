@@ -2,8 +2,6 @@
 
 Nesting makes the code more difficult to read and is almost never necessary.
 
-The simplest example and the easiest one to avoid is trivially nested if-statements.
-
 ```csharp
 // Bad
 if (foo)
