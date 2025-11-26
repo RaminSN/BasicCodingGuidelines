@@ -26,7 +26,8 @@ if (foo && bar && baz)
 }
 ```
 
-Oftentimes the solution is not as easy as merging nested if-statements.
+Oftentimes the solution is not as easy as merging nested if-statements and requires more thinking. 
+That doesn't make it any less important; writing clear code is an investment.
 
 ```csharp
 // Bad

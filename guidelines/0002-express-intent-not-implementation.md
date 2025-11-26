@@ -4,9 +4,9 @@ This is another way of saying _"Favor Declarative Over Imperative"_.
 
 The following two instructions have the same result. Which one is more clear?
 
-1. _"Give me the name of the oldest student in the mathematics class."_
+1. >Give me the name of the oldest student in the mathematics class.
 
-2. _"Look at each student in the mathematics class while keeping track of oldest one you have seen so far. When you are done, give me the name of the tracked student._"
+2. >Look at each student in the mathematics class while keeping track of oldest one you have seen so far. When you are done, give me the name of the tracked student.
 
 The first one is expressing intent. It expresses _what_ the author wanted. There is little room for confusion
 on the reader's part regarding what the author sought to communicate.
