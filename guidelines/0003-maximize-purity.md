@@ -3,7 +3,7 @@
 Pure functions are functions that have no side effects and always return the same thing for a given input.
 
 ```csharp
-string BaseURL { get; set; } = "https://example.com" 
+string BaseURL { get; set; } = "https://example.com";
 
 // Impure! Is dependent on an external value and can therefore return different values for the same input.
 bool IsValidUrl(string path)
