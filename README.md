@@ -5,7 +5,7 @@ The aim is not to establish arbitrary conventions for code uniformity (i.e. read
 each team of developers can establish for themselves easily. Rather, the focus is on documenting ways of coding that are objectively clearer 
 and less error-prone. 
 
-Lack of familiarity with a certain way of writing code is not considered valid criticism; familiarity can be easily acquired. The previous statment
+Lack of familiarity with a certain way of writing code is not considered valid criticism; familiarity can be easily acquired. The previous statement
 notwithstanding, these guidelines are aimed toward and tailored for teams writing code in a non-functional paradigm, such as object-oriented or
 or basic procedural programming. For functional programmers this set of guidelines serve no purpose; the functional paradigm itself encompasses
 these teachings on a more advanced level.
