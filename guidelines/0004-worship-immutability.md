@@ -37,7 +37,7 @@ salary of `eric` won't change unexpectedly during its calculations.
 
 Let's drive home the point with a more complete example.
 
-Here we have code that follows the bad mental model where objects are "living" and "changing".
+Here we have code that follows the bad mental model where data is "living" and "changing".
 Our code consists of impure function that mutate state.
 ```csharp
 void ModifySalary(Employee employee, decimal factor)
